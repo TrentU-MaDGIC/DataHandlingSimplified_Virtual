@@ -1,0 +1,25 @@
+"Location","Year","American Crow","American Robin","Blue Jay"
+"Guelph",2019,398,78,70
+"Guelph",2020,499,239,271
+"Guelph",2021,507,214,170
+"Guelph",2022,424,366,142
+"Kawartha",2019,126,32,388
+"Kawartha",2020,65,43,257
+"Kawartha",2021,65,43,257
+"Kawartha",2022,63,45,224
+"Kingston",2019,809,150,245
+"Kingston",2020,1048,74,237
+"Kingston",2021,795,257,356
+"Kingston",2022,609,105,337
+"London",2019,218,160,262
+"London",2020,322,456,353
+"London",2021,346,122,393
+"London",2022,805,231,168
+"Peterborough",2019,956,143,197
+"Peterborough",2020,576,224,563
+"Peterborough",2021,557,891,517
+"Peterborough",2022,572,528,563
+"Toronto",2019,90,929,83
+"Toronto",2020,87,996,129
+"Toronto",2021,87,767,152
+"Toronto",2022,120,1125,62
